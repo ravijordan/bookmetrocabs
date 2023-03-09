@@ -1,0 +1,4 @@
+[09-Mar-2023 04:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/bookhzis/metrocabs/mail_handle.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookhzis/metrocabs/mail_handle.php on line 18
